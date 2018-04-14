@@ -1,9 +1,9 @@
 {
-  "name": "news-feed-eradicator",
-  "title": "News Feed Eradicator for Facebook",
+  "name": "news-feed-eradicator-bangla",
+  "title": "Bangla News Feed Eradicator for Facebook",
   "id": "jid1-oWTXWc3MRzRuiQ",
   "description": "Find yourself spending too much time on Facebook? Eradicate distractions by replacing your entire news feed with an inspiring quote",
-  "author": "Jordan West",
+  "author": "Aniruddha Adhikary",
   "license": "MIT",
   "version": "1.1.0",
   "devDependencies": {
